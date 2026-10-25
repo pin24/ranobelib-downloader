@@ -30,7 +30,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/zeroma25/ranobelib-downloader.git
+   git clone https://github.com/pin24/ranobelib-downloader.git
    cd ranobelib-downloader
    ```
 
